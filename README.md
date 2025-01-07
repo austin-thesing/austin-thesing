@@ -4,12 +4,12 @@
 
 I am a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that can make a difference.
 
-- 🌱 I’m currently learning **[Your Current Learning Focus]**
-- 🔭 I’m currently working on **[Your Current Project]**
+- 🌱 I’m currently learning **Coming Soon**
+- 🔭 I’m currently working on **Coming Soon**
 - 💬 Ask me about **Coming Soon**
-- 📫 How to reach me: **[austin@designxdevelop.com]**
-- 📄 Know about my experiences: [My Experience](#) (link to your resume)
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 📫 How to reach me: **austin@designxdevelop.com**
+- 📄 Know about my experiences: [My Experience](https://www.linkedin.com/in/austinthesing)
+- ⚡ Fun fact: **Coming Soon**
 
 ## Languages and Tools
 
@@ -21,25 +21,24 @@ I am a passionate software developer with a keen interest in web development, op
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-
-
 ## Projects
 
 Here are some of the projects I have worked on:
 
-- **[Project Name](#)**: Brief description of the project.
-- **[Project Name](#)**: Brief description of the project.
-- **[Project Name](#)**: Brief description of the project.
+- **[Coming Soon](#)**: 
+- **[Coming Soon](#)**: 
+- **[Coming Soon](#)**: 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/austin-thesing)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austin-thesing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/austin-thesing](https://www.linkedin.com/in/austinthesing))
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
 
 Thanks for visiting my profile!
