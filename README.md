@@ -1,4 +1,4 @@
-[# Hi there, I'm Austin Thesing! 👋
+# Hi there, I'm Austin Thesing! 👋
 
 ## About Me
 
