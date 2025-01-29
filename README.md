@@ -48,4 +48,3 @@ Here are some of the projects I have worked on:
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
 
 Thanks for visiting my profile!
-](https://github.com/austin-thesing/quick-web-animations)
