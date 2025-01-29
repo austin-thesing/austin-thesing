@@ -1,4 +1,4 @@
-# Hi there, I'm Austin Thesing! 👋
+[# Hi there, I'm Austin Thesing! 👋
 
 ## About Me
 
@@ -32,9 +32,14 @@ I am a passionate software developer with a keen interest in web development, op
 
 Here are some of the projects I have worked on:
 
-- **[Coming Soon](#)**: 
-- **[Coming Soon](#)**: 
-- **[Coming Soon](#)**: 
+- **[Quick animation library](https://github.com/austin-thesing/quick-web-animations)**  
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+  
+- **[Coming Soon](#)**
+- **[Coming Soon](#)**
+
 
 ## Connect with Me
 
@@ -42,3 +47,4 @@ Here are some of the projects I have worked on:
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
 
 Thanks for visiting my profile!
+](https://github.com/austin-thesing/quick-web-animations)
