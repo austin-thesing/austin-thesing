@@ -16,6 +16,7 @@ I am a passionate software developer with a keen interest in web development, op
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 ![Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=ruby-on-rails)
 ![Webflow](https://img.shields.io/badge/-Webflow-black?style=flat-square&logo=webflow)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
