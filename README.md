@@ -1,8 +1,5 @@
 # Hi there, I'm Austin Thesing! 👋
-
-## About Me
-
-I am a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that can make a difference.
+I am a passionate web/software developer with a strong interest in front end web development, open-source contributions, and learning new technologies. I enjoy solving problems and working on projects that drive meaningful impact and improvement.
 
 - 💬 Ask me about **Coming Soon**
 - 📫 How to reach me: **austin@designxdevelop.com**
@@ -10,7 +7,6 @@ I am a passionate software developer with a keen interest in web development, op
 - ⚡ Fun fact: **Coming Soon**
 
 ## Languages and Tools
-
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -28,9 +24,7 @@ I am a passionate software developer with a keen interest in web development, op
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## Projects
-
 Here are some of the projects I have worked on:
-
 - **[Quick animation library](https://github.com/austin-thesing/quick-web-animations)**  
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -38,6 +32,5 @@ Here are some of the projects I have worked on:
 
 
 ## Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/austin-thesing](https://www.linkedin.com/in/austinthesing))
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
