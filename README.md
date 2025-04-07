@@ -4,8 +4,6 @@
 
 I am a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that can make a difference.
 
-- 🌱 I’m currently learning **Coming Soon**
-- 🔭 I’m currently working on **Coming Soon**
 - 💬 Ask me about **Coming Soon**
 - 📫 How to reach me: **austin@designxdevelop.com**
 - 📄 Know about my experiences: [My Experience](https://www.linkedin.com/in/austinthesing)
@@ -37,9 +35,6 @@ Here are some of the projects I have worked on:
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-  
-- **[Coming Soon](#)**
-- **[Coming Soon](#)**
 
 
 ## Connect with Me
