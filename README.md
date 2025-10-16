@@ -14,5 +14,5 @@ Here are some of the projects I have worked on:
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/austin-thesing](https://www.linkedin.com/in/austinthesing))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/austin-thesing](https://www.linkedin.com/in/austinthesing)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
