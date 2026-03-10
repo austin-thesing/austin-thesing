@@ -26,6 +26,15 @@ Here are a few of the projects I have worked on:
   ![R2](https://img.shields.io/badge/-Cloudflare%20R2-black?style=flat-square&logo=cloudflare)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+- **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
+  I built this as an example of my developer tooling work: an AI-powered CLI that turns natural language into terminal commands, with both a standard command-line flow and an interactive TUI for faster local workflows.  
+
+  What makes it notable from an engineering standpoint: it combines multi-provider model support, opt-in repo context, configurable command safety analysis, cross-platform keychain-backed credential storage, shell-aware command generation, and CI/release automation for typed builds and versioned npm publishing.  
+
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+  ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
+  ![CLI](https://img.shields.io/badge/-CLI-black?style=flat-square)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinthesing)
