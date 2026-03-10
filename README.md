@@ -1,9 +1,10 @@
 # Hi there, I'm Austin Thesing! 👋
 I am a Senior Marketing Developer at Point.com with experience across front-end engineering, web development, and developer tooling. I lead the implementation and technical direction of high-impact digital experiences and scalable systems, and have helped transition key surfaces from engineering ownership to marketing development ownership in partnership with the broader engineering team. My work also spans in-house product development, marketing engineering, and client-facing web projects.
 
-- 📫 How to reach me: **austin@designxdevelop.com**
-- 📄 Know about my experiences: [My Experience](https://www.linkedin.com/in/austinthesing)
-- ⚡ Fun fact: **Coming Soon**
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinthesing)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
+📫 How to reach me: **austin@designxdevelop.com**
 
 ## Projects
 Here are a few of the projects I have worked on:
@@ -56,8 +57,3 @@ Here are a few of the projects I have worked on:
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinthesing)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
