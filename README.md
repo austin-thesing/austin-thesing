@@ -6,8 +6,12 @@ I am a Senior Marketing Developer at Point.com with experience across front-end 
 - ⚡ Fun fact: **Coming Soon**
 
 ## Projects
-Here are some of the projects I have worked on:
-- **[Quick animation library](https://github.com/austin-thesing/quick-web-animations)**  
+Here are a few of the projects I have worked on:
+- **[Quick Web Animations](https://github.com/austin-thesing/quick-web-animations)**  
+  I built this as a lightweight animation library for Webflow and custom front-end projects, with both GSAP-powered scroll animations and a CSS-only system for above-the-fold motion that needs to load immediately.  
+
+  What makes it notable from an engineering standpoint: it uses a simple attribute-driven API, an optimized `IntersectionObserver` setup, chunked element processing, and an automated build pipeline that outputs minified assets for CDN delivery while keeping the developer experience lightweight.  
+
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
@@ -17,7 +21,7 @@ Here are some of the projects I have worked on:
 
   It also supports separate staging and production environments for built assets, with the broader delivery workflow set up so production files are automatically minified and stripped of logging before release.  
 
-  What makes it special from an engineering standpoint: it combines edge-native asset delivery with operational tooling - custom commands, GitHub Actions CI/automation, fuzzy file search, built-in MP4 range streaming, automatic filename deduplication, and request stats persisted directly in R2 instead of relying on a separate database.  
+  What makes it notable from an engineering standpoint: it combines edge-native asset delivery with operational tooling - custom commands, GitHub Actions CI/automation, fuzzy file search, built-in MP4 range streaming, automatic filename deduplication, and request stats persisted directly in R2 instead of relying on a separate database.  
   ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-black?style=flat-square&logo=cloudflare)
   ![R2](https://img.shields.io/badge/-Cloudflare%20R2-black?style=flat-square&logo=cloudflare)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
