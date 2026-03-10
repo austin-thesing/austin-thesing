@@ -27,7 +27,7 @@ Here are a few of the projects I have worked on:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 - **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
-  I built this as an example of my developer tooling work: an AI-powered CLI that turns natural language into terminal commands, with both a standard command-line flow and an interactive TUI for faster local workflows.  
+  I built this to solve a developer pain point I run into all the time: knowing what I want to do in the terminal, but not wanting to remember the exact shell syntax for it. It is an AI-powered CLI that turns natural language into terminal commands, with both a standard command-line flow and an interactive TUI for faster local workflows.  
 
   What makes it notable from an engineering standpoint: it combines multi-provider model support, opt-in repo context, configurable command safety analysis, cross-platform keychain-backed credential storage, shell-aware command generation, and CI/release automation for typed builds and versioned npm publishing.  
 
