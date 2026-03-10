@@ -1,5 +1,5 @@
 # Hi there, I'm Austin Thesing! 👋
-I am a Senior Marketing Developer at Point.com and a web/software developer who enjoys building high-impact digital experiences, developer-friendly systems, and thoughtful front-end products. I am especially interested in front-end engineering, open-source contributions, and learning new technologies.
+I am a Senior Marketing Developer at Point.com with experience across front-end engineering, web development, and developer tooling. I lead the implementation and technical direction of high-impact digital experiences and scalable systems, and have helped transition key surfaces from engineering ownership to marketing development ownership in partnership with the broader engineering team. My work also spans in-house product development, marketing engineering, and client-facing web projects.
 
 - 📫 How to reach me: **austin@designxdevelop.com**
 - 📄 Know about my experiences: [My Experience](https://www.linkedin.com/in/austinthesing)
