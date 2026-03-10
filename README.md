@@ -7,14 +7,14 @@ I am a Senior Marketing Developer at Point.com with experience across front-end 
 
 ## Projects
 Here are a few of the projects I have worked on:
-- **[Quick Web Animations](https://github.com/austin-thesing/quick-web-animations)**  
-  I built this as a lightweight animation library for Webflow and custom front-end projects, with both GSAP-powered scroll animations and a CSS-only system for above-the-fold motion that needs to load immediately.  
+- **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
+  I built this to solve a developer pain point I run into all the time: knowing what I want to do in the terminal, but not wanting to remember the exact shell syntax for it. It is an AI-powered CLI that turns natural language into terminal commands, with both a standard command-line flow and an interactive TUI for faster local workflows.  
 
-  What makes it notable from an engineering standpoint: it uses a simple attribute-driven API, an optimized `IntersectionObserver` setup, chunked element processing, and an automated build pipeline that outputs minified assets for CDN delivery while keeping the developer experience lightweight.  
+  What makes it notable from an engineering standpoint: it combines multi-provider model support, opt-in repo context, configurable command safety analysis, cross-platform keychain-backed credential storage, shell-aware command generation, and CI/release automation for typed builds and versioned npm publishing.  
 
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+  ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
+  ![CLI](https://img.shields.io/badge/-CLI-black?style=flat-square)
 
 - **[Marketing CDN](https://github.com/pointdotcom-marketing/marketing-cdn)**  
   I built this in my role as Senior Marketing Developer at Point.com: a high-performance marketing asset CDN on Cloudflare Workers and R2, with a protected upload/browse UI for non-engineers, a custom code browser for production and staging assets, and repo-specific custom commands to speed up content workflows.  
@@ -26,23 +26,29 @@ Here are a few of the projects I have worked on:
   ![R2](https://img.shields.io/badge/-Cloudflare%20R2-black?style=flat-square&logo=cloudflare)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-- **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
-  I built this to solve a developer pain point I run into all the time: knowing what I want to do in the terminal, but not wanting to remember the exact shell syntax for it. It is an AI-powered CLI that turns natural language into terminal commands, with both a standard command-line flow and an interactive TUI for faster local workflows.  
-
-  What makes it notable from an engineering standpoint: it combines multi-provider model support, opt-in repo context, configurable command safety analysis, cross-platform keychain-backed credential storage, shell-aware command generation, and CI/release automation for typed builds and versioned npm publishing.  
-
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
-  ![CLI](https://img.shields.io/badge/-CLI-black?style=flat-square)
-
 - **[agent-skills](https://github.com/designxdevelop/agent-skills)**  
   I am building this out as a reusable set of custom agent skills for the kinds of AI-assisted engineering work I am doing more of - things like CI setup, codebase audits, and other structured workflows where consistent instructions and guardrails matter.  
 
   What makes it notable from an engineering standpoint: it treats agent behavior as a maintainable system, with structured Markdown skill definitions, routing metadata, explicit workflows, safety guardrails, and completion checklists that make AI assistance more repeatable across tools and projects.  
 
+  Try them out:
+
+  ```bash
+  npx skills add https://github.com/designxdevelop/agent-skills
+  ```
+
   ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
   ![AI Tooling](https://img.shields.io/badge/-AI%20Tooling-black?style=flat-square)
   ![Developer Experience](https://img.shields.io/badge/-DX-black?style=flat-square)
+
+- **[Quick Web Animations](https://github.com/austin-thesing/quick-web-animations)**  
+  I built this as a lightweight animation library for Webflow and custom front-end projects, with both GSAP-powered scroll animations and a CSS-only system for above-the-fold motion that needs to load immediately.  
+
+  What makes it notable from an engineering standpoint: it uses a simple attribute-driven API, an optimized `IntersectionObserver` setup, chunked element processing, and an automated build pipeline that outputs minified assets for CDN delivery while keeping the developer experience lightweight.  
+
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 
 
 ## Connect with Me
