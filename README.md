@@ -14,6 +14,9 @@ Here are some of the projects I have worked on:
 
 - **[Marketing CDN](https://github.com/pointdotcom-marketing/marketing-cdn)**  
   I built this in my role as Senior Marketing Developer at Point.com: a high-performance marketing asset CDN on Cloudflare Workers and R2, with a protected upload/browse UI for non-engineers, a custom code browser for production and staging assets, and repo-specific custom commands to speed up content workflows.  
+
+  It also supports separate staging and production environments for built assets, with the broader delivery workflow set up so production files are automatically minified and stripped of logging before release.  
+
   What makes it special from an engineering standpoint: it combines edge-native asset delivery with operational tooling - custom commands, GitHub Actions CI/automation, fuzzy file search, built-in MP4 range streaming, automatic filename deduplication, and request stats persisted directly in R2 instead of relying on a separate database.  
   ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-black?style=flat-square&logo=cloudflare)
   ![R2](https://img.shields.io/badge/-Cloudflare%20R2-black?style=flat-square&logo=cloudflare)
