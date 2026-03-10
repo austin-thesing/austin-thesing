@@ -35,6 +35,15 @@ Here are a few of the projects I have worked on:
   ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
   ![CLI](https://img.shields.io/badge/-CLI-black?style=flat-square)
 
+- **[agent-skills](https://github.com/designxdevelop/agent-skills)**  
+  I am building this out as a reusable set of custom agent skills for the kinds of AI-assisted engineering work I am doing more of - things like CI setup, codebase audits, and other structured workflows where consistent instructions and guardrails matter.  
+
+  What makes it notable from an engineering standpoint: it treats agent behavior as a maintainable system, with structured Markdown skill definitions, routing metadata, explicit workflows, safety guardrails, and completion checklists that make AI assistance more repeatable across tools and projects.  
+
+  ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+  ![AI Tooling](https://img.shields.io/badge/-AI%20Tooling-black?style=flat-square)
+  ![Developer Experience](https://img.shields.io/badge/-DX-black?style=flat-square)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinthesing)
