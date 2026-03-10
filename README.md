@@ -2,9 +2,9 @@
 I am a Senior Marketing Developer at Point.com with experience across front-end engineering, web development, and developer tooling. I lead the implementation and technical direction of high-impact digital experiences and scalable systems, and have helped transition key surfaces from engineering ownership to marketing development ownership in partnership with the broader engineering team. My work also spans in-house product development, marketing engineering, and client-facing web projects.
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinthesing)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/austinthesing)
-📫 How to reach me: **austin@designxdevelop.com**
+- Email: `austin@designxdevelop.com`
+- [LinkedIn](https://www.linkedin.com/in/austinthesing)
+- [Twitter](https://twitter.com/austinthesing)
 
 ## Projects
 Here are a few of the projects I have worked on:
