@@ -8,6 +8,15 @@ I am a Senior Marketing Developer at Point.com with experience across front-end 
 
 ## Projects
 Here are a few of the projects I have worked on:
+- **[dxd.link](https://dxd.link)**  
+  I am building this as a one-page link-in-bio builder that looks intentional by default — heavy type, a clean grid, one red accent. Drop blocks onto a grid (links, socials, content) and publish at dxd.link/u/yourname.  
+
+  Notable engineering details: keyboard-first editor with Cmd-K palette and vim-ish navigation, versioned typed block spec (paste raw JSON, share templates), live analytics dashboard, static HTML export, and a grid-native editor instead of a vertical button stack.  
+
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
 - **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
   I built this to solve a developer pain point I run into all the time: knowing what I want to do in the terminal, but not wanting to remember the exact shell syntax for it. It is an AI-powered CLI with both a standard command-line flow and an interactive TUI.  
 
