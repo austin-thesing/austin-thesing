@@ -9,13 +9,16 @@ I am a Senior Marketing Developer at Point.com with experience across front-end 
 ## Projects
 Here are a few of the projects I have worked on:
 - **[dxd.link](https://dxd.link)**  
-  I am building this as a one-page link-in-bio builder that looks intentional by default — heavy type, a clean grid, one red accent. Drop blocks onto a grid (links, socials, content) and publish at dxd.link/u/yourname.  
+  I am building this as a one-page link-in-bio builder that looks intentional by default — heavy type, a clean grid, one red accent. Drop blocks onto a grid (links, socials, content) and publish at dxd.link/yourname. Native **Expo** apps for **iOS** and **Android** let you edit your pages on the go.  
 
-  Notable engineering details: keyboard-first editor with Cmd-K palette and vim-ish navigation, versioned typed block spec (paste raw JSON, share templates), live analytics dashboard, static HTML export, and a grid-native editor instead of a vertical button stack.  
+  Notable engineering details: keyboard-first editor with Cmd-K palette and vim-ish navigation, versioned typed block spec (paste raw JSON, share templates), live analytics dashboard, static HTML export, a grid-native editor instead of a vertical button stack, and Expo/React Native mobile apps for editing on the go.  
 
   ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+  ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
+  ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
+  ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 
 - **[Magic Shell](https://github.com/designxdevelop/magic-shell)**  
   I built this to solve a developer pain point I run into all the time: knowing what I want to do in the terminal, but not wanting to remember the exact shell syntax for it. It is an AI-powered CLI with both a standard command-line flow and an interactive TUI.  
